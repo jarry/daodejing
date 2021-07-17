@@ -116,6 +116,6 @@
 <img src="../images/postscript-7.jpg" width="60%">
 <img src="../images/postscript-8.jpg" width="60%">
 
-[返回目录](../)
+[返回目录](../README.md)
 
 </font>
